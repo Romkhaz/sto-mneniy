@@ -1,0 +1,5 @@
+{"id":"ru-0001","votes":{"entailment":27,"neutral":3,"contradiction":0},"n":30,"majority":"entailment","entropy":0.47,"difficulty":"лёгкая"}
+{"id":"ru-0002","votes":{"entailment":2,"neutral":24,"contradiction":4},"n":30,"majority":"neutral","entropy":0.79,"difficulty":"средняя"}
+{"id":"ru-0003","votes":{"entailment":11,"neutral":15,"contradiction":4},"n":30,"majority":"neutral","entropy":1.35,"difficulty":"трудная"}
+{"id":"ru-0004","votes":{"entailment":0,"neutral":2,"contradiction":28},"n":30,"majority":"contradiction","entropy":0.35,"difficulty":"лёгкая"}
+{"id":"ru-0005","votes":{"entailment":22,"neutral":8,"contradiction":0},"n":30,"majority":"entailment","entropy":0.84,"difficulty":"средняя"}

@@ -1,0 +1,5 @@
+{"pair_id":"ru-0003","annotator":"a017","session":2,"label":"neutral","rt_ms":14200,"comment":""}
+{"pair_id":"ru-0003","annotator":"a042","session":1,"label":"entailment","rt_ms":9800,"comment":"вздохнул и посмотрел на часы — явно ждёт"}
+{"pair_id":"ru-0003","annotator":"a058","session":1,"label":"neutral","rt_ms":21300,"comment":""}
+{"pair_id":"ru-0003","annotator":"a061","session":3,"label":"neutral","rt_ms":6900,"comment":""}
+{"pair_id":"ru-0003","annotator":"a077","session":1,"label":"contradiction","rt_ms":18400,"comment":"он же сел обратно, значит никуда не идёт"}
